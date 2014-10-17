@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kic:home|Door43 (kic)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kic|d43-kic repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kic/archive/master.zip|d43-kic.zip]]
+
+**Recent Changes**
+{{changes>ns = kic}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kic|Ethnologue data]]
+
